@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Swathi Pavan, i am a software professional with interest in art culture. This page post some of my art, sckethes and paintings.
+
+Keep visiting as i will be adding more and more into this site. You can reach me at 📫: mailpavan.venu@gmail.com if you are interested in my work.
+
+Thank you for landing here, hope to see you often !!
+
+
 <!--
 **MyArtHubRepo/MyArtHubRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
